@@ -1,0 +1,18 @@
+entity: Courier
+items:
+  courier1:
+    name: Vadim Mahamed
+    image: https://www.dodho.com/wp-content/uploads/2016/05/Joe-Hughes.jpg
+    phone: '+375(29)453-98-07'
+  courier2:
+    name: Oleg Faragov
+    image: https://get.pxhere.com/photo/man-sun-photography-male-guy-portrait-ceremony-photograph-portrait-photography-1409817.jpg
+    phone: '+375(29)234-32-65'
+  courier3:
+    name: Maksim Malsov
+    image: https://get.pxhere.com/photo/man-person-people-photography-male-portrait-child-human-hat-facial-expression-smile-senior-citizen-face-head-caricature-troll-comic-emotion-portrait-photography-720074.jpg
+    phone: '+375(29)746-13-42'
+  courier4:
+    name: Nastya Garneika
+    image: https://get.wallhere.com/photo/face-women-model-portrait-long-hair-blue-eyes-brunette-looking-at-viewer-photography-blue-fashion-hair-Person-skin-head-girl-beauty-smile-eye-woman-lady-blond-hairstyle-portrait-photography-photo-shoot-brown-hair-facial-expression-41103.jpg
+    phone: '+375(29)364-78-95'

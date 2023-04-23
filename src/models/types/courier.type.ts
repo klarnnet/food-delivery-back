@@ -1,0 +1,1 @@
+export type Info = {courierId:string; adress:string}

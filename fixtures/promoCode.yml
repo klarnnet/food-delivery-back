@@ -1,0 +1,12 @@
+entity: PromoCode
+items:
+  promoCode1:
+    name: WEEKEND
+    percent: 5
+  promoCode2:
+    name: HIFOOD
+    percent: 10
+  promoCode3:
+    name: GOOD
+    percent: 15
+    

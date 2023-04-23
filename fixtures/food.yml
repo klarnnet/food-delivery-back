@@ -1,0 +1,155 @@
+entity: Food
+items:
+  food1:
+    id: 1
+    firstname: Chocolate Cake
+    lastname: sweet chocolate Cake
+    category: desserts
+    coast: 8.5
+    stars: 4.2
+    time: 25
+    image: https://mobimg.b-cdn.net/v3/fetch/84/84e41dbd11902d89c67cc74ff5dc52ce.jpeg
+    about: Chocolate sponge cake with cheese cream and hazelnut Praline paste
+
+  food2:
+    id: 2
+    firstname: Chicken Caesar
+    lastname: sour caesar with chicken
+    category: salads
+    coast: 4.4
+    stars: 4.5
+    time: 45
+    image: https://podacha-blud.com/uploads/posts/2022-10/1666420958_1-podacha-blud-com-p-na-kakoi-tarelke-podayut-salat-tsezar-s-ku-1.jpg
+    about: Chicken fillet, salad mix, cherry tomato, Parmesan cheese, Caesar sauce, croutons
+
+  food3:
+    id: 3
+    firstname: sprite
+    lastname: sweet drink
+    category: drink
+    coast: 9.4
+    stars: 5
+    time: 5
+    image: https://i.pinimg.com/originals/16/8a/00/168a0031a5140e4b77bbd52a9e018631.jpg
+    about: Non-alcoholic highly carbonated soft drink
+
+  food4:
+    id: 4
+    firstname: Solyanka
+    lastname: salty solyanka
+    category: soups
+    coast: 5.5
+    stars: 3.9
+    time: 15
+    image: http://kahuri.ru/wp-content/uploads/product/65/dsc_5406-Solyanka.jpg
+    about: Chicken fillet, brisket, ham, smoked sausage, pickled cucumbers, onions, capers, olives, lemon, sour cream
+
+  food5:
+    id: 5
+    firstname: Honey Cake
+    lastname: sweet honey Cake
+    category: desserts
+    coast: 8.2
+    stars: 3.8
+    time: 25
+    image: https://podacha-blud.com/uploads/posts/2022-09/1664554758_7-podacha-blud-com-p-tortika-medovik-foto-7.jpg
+    about: Honey cake with tender sour cream and honey crumbs
+
+  food6:
+    id: 6
+    firstname: Porridge
+    lastname: salty buckwheat porridge
+    category: vegetarian
+    coast: 3.4
+    stars: 4.3
+    time: 45
+    image: https://thumbs.dreamstime.com/b/buckwheat-porridge-mushrooms-frying-pan-table-45135213.jpg
+    about: Buckwheat, mushrooms, carrots, onions, dill
+
+  food7:
+    id: 7
+    firstname: Borscht with rib
+    lastname: salty borscht with smoked rib
+    category: soups
+    coast: 6.5
+    stars: 4.6
+    time: 45
+    image: https://bebijoli.ru/wp-content/uploads/2020/09/borshh.jpg
+    about: Smoked pork rib, beetroot, potato, tomato paste, broth, carrot, onion, garlic, sour cream, dill
+
+  food8:
+    id: 8
+    firstname: Burger C&B
+    lastname: salty burger C&B
+    category: fast food
+    coast: 4.9
+    stars: 4.3
+    time: 35
+    image: https://carte.by/source/photos/2019/09/09/fdb2f510b5acdf7759785ae7475d8734.jpg
+    about: Beef patty, bun, tomato, Cheddar cheese, brisket, red onion, arugula salad, mayonnaise
+
+  food9:
+    id: 9
+    firstname: Chicken broth
+    lastname: sour chicken broth
+    category: soups
+    coast: 8.3
+    stars: 4.4
+    time: 30
+    image: https://kartinkin.net/uploads/posts/2021-03/1616193114_9-p-sup-iz-kurinogo-bulona-yeda-foto-9.jpg
+    about: Chicken broth, chicken, egg, dill
+
+  food10:
+    id: 10
+    firstname: fanta
+    lastname: sweet drink
+    category: drink
+    coast: 3.4
+    stars: 5
+    time: 5
+    image: https://i.pinimg.com/originals/5f/54/19/5f5419df409aa274a7ea38726f98e260.jpg
+    about: Non-alcoholic highly carbonated soft drink
+
+  food11:
+    id: 11
+    firstname: pepsi
+    lastname: sweet drink
+    category: drink
+    coast: 3.4
+    stars: 5
+    time: 5
+    image: https://mir-s3-cdn-cf.behance.net/projects/max_808/632dc4126037729.Y3JvcCwxMzAzLDEwMTksNDgsNDIy.jpg
+    about: Non-alcoholic highly carbonated soft drink
+
+  food12:
+    id: 12
+    firstname: Tortilla Roll
+    lastname: spicy bavarian tortilla roll
+    category: fast food
+    coast: 6.8
+    stars: 4.5
+    time: 35
+    image: https://korolev-papagrill.ru/wp-content/uploads/2019/04/papa_roll.jpg
+    about: Tortilla, egg, hunting sausages, Iceberg lettuce, tomato, mustard sauce, mayonnaise
+
+  food13:
+    id: 13
+    firstname: Smoked caesar
+    lastname: spicy caesar with salmon
+    category: salads
+    coast: 9.2
+    stars: 4.7
+    time: 25
+    image: https://kartinkin.net/uploads/posts/2021-04/thumbs/1617263863_38-p-salat-s-semgoi-krasivo-43.jpg
+    about: Smoked salmon, salad mix, parmesan cheese, cherry tomato, Caesar sauce, croutons
+
+  food14:
+    id: 14
+    firstname: Baked pepper
+    lastname: salty baked pepper
+    category: vegetarian
+    coast: 8.7
+    stars: 4.6
+    time: 35
+    image: https://prima-food.ru/uploads/posts/2019-06/1561568644_perec-s-kuskusom-2.jpg
+    about: Pepper, rice, onion, carrot, mushrooms, cucumbers, spinach, tomato sauce, dill
